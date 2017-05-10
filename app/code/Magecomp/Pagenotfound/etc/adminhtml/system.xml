@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../Magento/Backend/etc/system_file.xsd">
+    <system>
+        <tab id="magecomp" translate="label" sortOrder="100">
+            <label><![CDATA[<img src="http://www.magecomp.com/media/images/magecomp--extension.png" alt="MAGECOMP" height="15" style="vertical-align:middle;"/>]]></label>
+        </tab>
+        <section id="pagenotfound_configuration" showInDefault="1">
+			<tab>magecomp</tab>
+            <label>404 Notifier</label>
+           	<resource>Magecomp_Pagenotfound::pagenotfound</resource>
+            <group id="pagenotfoundoption" showInDefault="1">
+                <label>Configuration</label>
+				<field id="enable" type="select" showInDefault="1" sortOrder="0" showInWebsite="1" showInStore="1">
+                    <label>404 Notifier</label>
+					<source_model>Magento\Config\Model\Config\Source\Enabledisable</source_model>
+               </field>
+			   
+               <field id="recipient_email" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Send Emails To</label>
+                    <validate>validate-email</validate>
+					<comment>Enter valid Email ID of admin to get 404 notifications on</comment>
+					<depends><field id="enable">1</field></depends>
+               </field>
+			   
+			   <field id="sender_email_identity" translate="label" type="select" sortOrder="20" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Email Sender</label>
+                    <source_model>Magento\Config\Model\Config\Source\Email\Identity</source_model>
+					<depends><field id="enable">1</field></depends>
+                </field>
+				
+				 <field id="email_template" translate="label comment" type="select" sortOrder="30" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Email Template</label>
+                    <source_model>Magento\Config\Model\Config\Source\Email\Template</source_model>
+					<depends><field id="enable">1</field></depends>
+                </field>
+				
+		 </group>
+        </section>
+    </system>
+</config>

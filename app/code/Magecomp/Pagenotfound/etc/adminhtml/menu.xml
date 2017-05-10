@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Magecomp_Pagenotfound::pagenotfound" title="MageComp 404 Notifier" resource="Magecomp_Pagenotfound::pagenotfound" module="Magecomp_Pagenotfound" sortOrder="20"/>
+        <add id="Magecomp_Pagenotfound::pagenotfound_pagenotfound" title="404 Notifications" resource="Magecomp_Pagenotfound::pagenotfound_pagenotfound" parent="Magecomp_Pagenotfound::pagenotfound" action="pagenotfound/pagenotfound/index" module="Magecomp_Pagenotfound" sortOrder="20"/>
+		 <add id="Magecomp_Pagenotfound::system_config" title="Configuration" module="Magecomp_Pagenotfound" sortOrder="30" parent="Magecomp_Pagenotfound::pagenotfound" action="adminhtml/system_config/edit/section/pagenotfound" resource="Magecomp_Pagenotfound::config_pagenotfound"/>
+    </menu>
+</config>

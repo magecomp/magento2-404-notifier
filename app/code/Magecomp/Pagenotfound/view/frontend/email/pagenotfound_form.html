@@ -1,0 +1,32 @@
+<!--@subject 404 page notification@-->
+<!--@vars {
+"var url":"URL",
+"var clientip":"Client Ip",
+"var reqdate":"Date"
+} @-->
+{{template config_path="design/email/header_template"}}
+<table>
+    <tr class="email-summary">
+        <td>
+            <h1>{{trans 'Hello Admin'}}</h1>
+        </td>
+    </tr>
+    <tr class="email-information">
+    	<td>{{trans 'You have got one more 404 page with following details:'}}</td>	
+    </tr>
+</table>
+<table>
+    <tr class="email-information">
+    	<td>{{trans 'Requested URL : '}}</td>	
+        <td>{{var url}}</td>
+    </tr>
+    <tr class="email-information">
+    	<td>{{trans 'Client IP : '}}</td>
+        <td>{{var clientip}}</td>
+    </tr>
+    <tr class="email-information">
+    	<td>{{trans 'Requested Date : '}}</td>
+        <td>{{var reqdate}}</td>
+    </tr>
+</table>
+{{template config_path="design/email/footer_template"}}
