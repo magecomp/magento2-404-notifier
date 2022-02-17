@@ -93,3 +93,22 @@ Email: [support@magecomp.com](mailto:support@magecomp.com)
 
 ## Magento Marketplace Extensions By MageComp
 
+[Magento 2 GeoIP Currency Switcher](https://marketplace.magento.com/magecomp-module-geocurrencystore.html)
+
+[Magento 2 Google Language Translator](https://marketplace.magento.com/magecomp-module-googlelangtranslator.html)
+
+[Magento 2 Ajax Login & Register](https://marketplace.magento.com/magecomp-magento-2-ajax-login-register.html)
+
+[Magento 2 Reviews Import](https://marketplace.magento.com/magecomp-module-reviewimport.html)
+
+[Magento 2 Push Notifications](https://marketplace.magento.com/magecomp-magento-2-push-notifications.html)
+
+[Magento 2 Shop by Brand](https://marketplace.magento.com/magecomp-magento-2-shop-by-brand.html)
+
+[Magento 2 Wishlist REST API](https://marketplace.magento.com/magecomp-magento-2-wishlist-rest-api.html)
+
+[Magento 2 Customer Avatar](https://marketplace.magento.com/magecomp-magento-2-customer-avatar.html)
+
+[Inventory Sync SOAP API](https://marketplace.magento.com/magecomp-magento-2-inventory-sync-soap-api.html)
+
+[Quantity Increment Decrement](https://marketplace.magento.com/magecomp-magento-2-quantity-increment-decrement.html)
