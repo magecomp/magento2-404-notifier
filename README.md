@@ -69,6 +69,8 @@ Phone: +917990250277
 
 Email: [support@magecomp.com](mailto:support@magecomp.com)
 
+Website:  [MageComp.com](http://magecomp.com/)
+
 ## Other Magento 2 Extensions by MageComp
 
 [Magento 2 Multi Vendor Indian GST](https://magecomp.com/magento-2-multivendor-indian-gst.html)
