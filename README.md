@@ -69,7 +69,7 @@ Phone: +917990250277
 
 Email: [support@magecomp.com](mailto:support@magecomp.com)
 
-Website:  [MageComp.com](http://magecomp.com/)
+Website:   [MageComp.com](http://magecomp.com/)
 
 ## Other Magento 2 Extensions by MageComp
 
