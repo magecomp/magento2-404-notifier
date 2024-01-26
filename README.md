@@ -82,3 +82,47 @@ Write to us at our [Support Portal](https://magecomp.com/support/) for queries a
 **Email:** [support@magecomp.com](mailto:support@magecomp.com)
 
 <img src="https://magecomp.com/media/logo/websites/1/Magecomp_Logo_251x51.png">
+
+## Other Magento 2 Extensions by MageComp
+
+[Magento 2 Resource Hints](https://magecomp.com/magento-2-resource-hints.html)
+
+[Magento 2 Sticky Add To Cart](https://magecomp.com/magento-2-sticky-add-to-cart.html)
+
+[Magento 2 Cash on Delivery Extra Fee](https://magecomp.com/magento-2-cash-on-delivery-extra-fee.html)
+
+[Magento 2 Coupon Code Link Extension](https://magecomp.com/magento-2-coupon-code-link.html)
+
+[Magento 2 Custom Checkout Fields](https://magecomp.com/magento-2-custom-checkout-fields.html)
+
+[Magento 2 Quick Order Extension](https://magecomp.com/magento-2-quick-order.html)
+
+[Magento 2 Category Import Export](https://magecomp.com/magento-2-category-import.html)
+
+[Magento 2 Out of Stock at Last](https://magecomp.com/magento-2-out-of-stock-at-last.html)
+
+[Magento 2 Quick Contact Form](https://magecomp.com/magento-2-quick-contact-form.html)
+
+[Magento 2 Mobile App Builder](https://mobileapp.magecomp.com/)
+
+## Magento Marketplace Extension by MageComp
+
+[Magento 2 Product Surcharge](https://marketplace.magento.com/magecomp-module-productsurcharge.html)
+
+[Magento 2 Save Cart](https://marketplace.magento.com/magecomp-module-savecart.html)
+
+[Magento 2 Surcharge](https://marketplace.magento.com/magecomp-module-surcharge.html)
+
+[Magento 2 Recent Sales Notification](https://marketplace.magento.com/magecomp-module-recentsalesnotification.html)
+
+[Magento 2 WhatsApp Share Cart](https://marketplace.magento.com/magecomp-module-whatsappsharecart.html)
+
+[Magento 2 Sticky Add To Cart](https://marketplace.magento.com/magecomp-magento-2-sticky-add-to-cart.html)
+
+[Magento 2 Out of Stock at Last](https://marketplace.magento.com/magecomp-magento-2-out-of-stock-at-last.html)
+
+[Magento 2 Hreflang Language](https://marketplace.magento.com/magecomp-magento-2-hreflang-language.html)
+
+[Magento 2 Shoppable Instagram](https://marketplace.magento.com/magecomp-magento-2-instagram-shoppable.html)
+
+[Magento 2 Cash On Delivery Extra Fee](https://marketplace.magento.com/magecomp-magento-2-cash-on-delivery-extra-fee.html)
